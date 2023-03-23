@@ -43,6 +43,6 @@ pip3 install -r requirements.txt
   * Csv 
   * Excel
 ## Contributor
-thewhiteh4t @thewhiteh4t
+abhishekx20 @sushilsahram @Nirajkumar
 ## Inspired By:
-Jake Creps @jakecreps
+@jakecreps
