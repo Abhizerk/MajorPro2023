@@ -31,7 +31,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/itsmehacker/DarkScrape.git
+git clone https://github.com/Abhizerk/MajorPro2023.git
 pip3 install -r requirements.txt
 ```
 ## Features
